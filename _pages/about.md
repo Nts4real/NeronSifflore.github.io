@@ -13,4 +13,4 @@ redirect_from:
 
 I am also interested in understanding how persuasion by leaders shapes the behaviour and beliefs of the masses. My fields of interest include development economics, labour economics, financial economics, and applied microeconometrics.
 
-📖 You can read more about my work in the /Research/ section of this website.
+📖 You can read more about my work in the [Research](/Research/) section of this website.

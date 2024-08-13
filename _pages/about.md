@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-📚 I hold a BSc (Hons) Economics from the University of Nottingham
+📚 I hold a BSc (Hons) Economics from the University of Nottingham.
 
-🔬 My research involves using various microeconometrics tools to uncover the effects of varoius government policies and developmental interventions on the accumulation of human capital. I am also interested in understanding how persuasion shapes the behaviour and beliefs of the masses. My fields of interest include development economics, labour economics, financial economics, and applied microeconometrics
+🔬 My research involves using various microeconometrics tools to uncover the effects of different government policies and developmental interventions on the accumulation of human capital. 
 
-📖 You can read more about my work in the Research section of this website
+I am also interested in understanding how persuasion by leaders shapes the behaviour and beliefs of the masses. My fields of interest include development economics, labour economics, financial economics, and applied microeconometrics.
+
+📖 You can read more about my work in the /Research/ section of this website.

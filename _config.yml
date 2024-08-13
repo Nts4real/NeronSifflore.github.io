@@ -26,7 +26,6 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Economics"
   location         : "Victoria, Seychelles"
-  employer         : ""
   uri              : # URL
   email            : "Neronsifflore@gmail.com" 
 
@@ -35,9 +34,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

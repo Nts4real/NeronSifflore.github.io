@@ -12,7 +12,7 @@ title                    : "Neron Sifflore"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/Nts4real/NeronSifflore.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nts4real.github.io/NeronSifflore.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 

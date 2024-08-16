@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /files/New_cv.pdf
+    url: https://github.com/Nts4real/NeronSifflore.github.io/blob/master/files/cv_mymy.pdf
     
   - title: "Research"
     url: /publications/
